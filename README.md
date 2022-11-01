@@ -1,5 +1,5 @@
 # CrytoARC Project
-Our CryptoARC game is an TCG P2E game. <br>
+Our <b>CryptoARC</b> game is an TCG P2E game. <br>
 Gambling games as the next generation of NFT games. <br>
 Grow items acquired in the game and sell them in the NFT Market. <br>
 
